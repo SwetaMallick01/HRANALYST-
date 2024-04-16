@@ -3,8 +3,8 @@ Project aimed at analyzing employee turnover trends and predicting future turnov
 
 # KPIs #
 1. Total Employees
-2. Avarage Age
-3. Avarage Salary
+2. Average Age
+3. Average Salary
 4. Attrition
 5. Attrition Rate
 6. Years in company
